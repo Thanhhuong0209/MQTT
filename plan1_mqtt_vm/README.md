@@ -158,4 +158,3 @@ Không cần sửa mã vì kết nối dùng `localhost:1883` và topic cấu h�
 
 ---
 
-Tài liệu này mô tả riêng cho Plan 1. Các file thừa cho các plan khác đã được dọn để chuẩn bị demo. Nếu cần bật lại các plan khác, vui lòng khôi phục từ VCS.
